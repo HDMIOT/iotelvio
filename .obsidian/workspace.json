@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linus Torvalds.md",
+                "file": "Física.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linus Torvalds"
+              "title": "Física"
+            }
+          },
+          {
+            "id": "e6992e95c2e7f35c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linus Torvalds.md",
+                "file": "Física.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Linus Torvalds"
+              "title": "Enlaces entrantes de Física"
             }
           },
           {
@@ -113,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linus Torvalds.md",
+                "file": "Física.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Linus Torvalds"
+              "title": "Enlaces salientes de Física"
             }
           },
           {
@@ -142,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linus Torvalds.md",
+                "file": "Física.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Linus Torvalds"
+              "title": "Esquema de Física"
             }
           }
         ]
@@ -169,6 +180,12 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "f76063a471dc6673",
-  "lastOpenFiles": []
+  "active": "e6992e95c2e7f35c",
+  "lastOpenFiles": [
+    "Física.md",
+    "repositorio.md",
+    "topología de redes.md",
+    "Linux.md",
+    "Linus Torvalds.md"
+  ]
 }
