@@ -25,10 +25,14 @@
             "id": "e6992e95c2e7f35c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Sistema Operativo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sistema Operativo"
             }
           }
         ],
@@ -182,6 +186,7 @@
   },
   "active": "e6992e95c2e7f35c",
   "lastOpenFiles": [
+    "Sistema Operativo.md",
     "Física.md",
     "repositorio.md",
     "topología de redes.md",

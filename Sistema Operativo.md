@@ -1,0 +1,1 @@
+Un **sistema operativo (SO)** es el software principal que gestiona los recursos de hardware y proporciona servicios básicos a las aplicaciones. Actúa como intermediario entre el usuario y la computadora, coordinando procesos, memoria, almacenamiento y dispositivos de entrada/salida para asegurar un funcionamiento eficiente y seguro del sistema.
