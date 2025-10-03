@@ -1,0 +1,1 @@
+Campo de la informática que busca crear sistemas capaces de realizar tareas que requieren inteligencia humana, como aprender, razonar o reconocer patrones.
